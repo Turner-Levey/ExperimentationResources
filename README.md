@@ -113,3 +113,4 @@ by Utilizing Pre-Experiment Data (Microsoft)](https://exp-platform.com/Documents
 * [LaunchDarkly](https://launchdarkly.com/features/experimentation/)
 * [JetLab](https://tryjetlab.com/)
 * [GrowthBook](https://www.growthbook.io/)
+* [SaaS A/B Test Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/) - Free browser-only planner for SaaS trial-to-paid A/B test sample size, readout timing, and local Markdown/CSV experiment notes. ([Source Code](https://github.com/Turner-Levey/trial-to-paid-conversion-sample-size-calculator))
